@@ -1,4 +1,4 @@
-<h1>🛠 Languages and Tools: 🧱</h1>
+<h1>🛠 My Development Toolbox: 🧱</h1>
 
 <img align="right" src="https://github.com/arda-mosafer/arda-mosafer/blob/main/spidertocat.png?raw=true" width="120" />
 
