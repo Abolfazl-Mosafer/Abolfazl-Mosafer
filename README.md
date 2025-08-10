@@ -27,7 +27,7 @@
 
 <br/>
 
-<h2>📞📡 Contact me:</h2>
+<h2>📡 Contact me:</h2>
 <p align="left">
     <a href="https://t.me/Mosafer_001" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/raw/main/icons8-telegram-94.png?raw=true" width="60" height="60" /></a>
     &nbsp; &nbsp;
