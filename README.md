@@ -8,6 +8,7 @@
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg" width="46" height="46"alt="Livewire" /></a>
 <br/>
     <a href="" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/arda-mosafer/arda-mosafer/f03bd9968d3e05364938c6533d4f01907541b503/js-official-svgrepo-com.svg" width="46" height="46" alt="Javascript" /></a>
+    <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg" width="46" height="46" alt="alpinejs" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="46" height="46" alt="Tailwindcss" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="46" height="46" alt="Bootstrap" /></a>
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="46" height="46" alt="Vite" /></a>
