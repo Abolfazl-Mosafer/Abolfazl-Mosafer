@@ -34,7 +34,7 @@
 <p align="left">
     <a href="https://t.me/Mosafer_001" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/raw/main/icons8-telegram-94.png?raw=true" width="56" height="56" /></a>
     &nbsp; &nbsp;
-    <a href="https://github.com/arda-mosafer" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-github-logo-94.png?raw=true" width="56" height="56" /></a>
+    <a href="https://github.com/Abolfazl-Mosafer" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/blob/main/icons8-github-logo-94.png?raw=true" width="56" height="56" /></a>
     &nbsp; &nbsp;
 </p>
 <h2><h2/>
