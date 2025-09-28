@@ -26,8 +26,6 @@
     <a href="" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-plain.svg" width="46" height="46" alt="Bash" /></a>
 </p>
 
-<br/>
-
 <h3>📡 Contact me:</h3>
 <p align="left">
     <a href="https://t.me/Mosafer_001" target="_blank" rel="noreferrer"><img src="https://github.com/arda-mosafer/arda-mosafer/raw/main/icons8-telegram-94.png?raw=true" width="56" height="56" /></a>
