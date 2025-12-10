@@ -11,5 +11,5 @@
 ### **𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀: 📌**
 [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=mysql,mongodb,redis)](https://github.com/thuongtruong109/icoziv)
 
-### **𝗢𝘁𝗵𝗲𝗿 𝗧𝗼𝗼𝗹𝘀 : **
+### **𝗢𝘁𝗵𝗲𝗿 𝗧𝗼𝗼𝗹𝘀 :**
 [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=Docker,Linux,NPM,Vite,Webpack,figma,JWT,GraphQL,Swagger,postman,Insomnia)](https://github.com/thuongtruong109/icoziv)
