@@ -1,7 +1,5 @@
 ## 🍭 ***I'm Vyrn***
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/NoxVyrn)
-
 ### **𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀: 📌**
 [![Icoziv Skills](https://i.icoziv.workers.dev/icons?i=php,js,html,css)](https://github.com/thuongtruong109/icoziv)
 
